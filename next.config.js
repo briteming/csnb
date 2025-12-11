@@ -8,7 +8,7 @@ module.exports = withExportImages({
     formats: ['image/avif', 'image/webp'],
   },
   env: {
-    name: '名称', //名称
+    name: 'blog of ym', //名称
     description: '简介', //简介
     keywords: '关键词, 关键词2, 博客', //关键词
     nav: [{ //顶部导航菜单
